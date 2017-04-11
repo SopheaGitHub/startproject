@@ -6,3 +6,4 @@ hotfix04
 add issue 05
 finish issue05
 add issue06
+finish issue06
