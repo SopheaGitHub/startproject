@@ -8,4 +8,5 @@ finish issue05
 hotfix0
 add issue06
 finish issue06
-add issue7 
+add issue7
+finish issue7
