@@ -12,3 +12,4 @@ hotfix6
 add issue7
 finish issue7
 add bmerge
+add bmerge2
