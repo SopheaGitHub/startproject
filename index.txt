@@ -14,3 +14,4 @@ finish issue7
 add bmerge
 add bmerge2
 setup username and password for push
+finish setup
